@@ -1,0 +1,42 @@
+[
+  {
+    "username": "juan123",
+    "name": "Juan Pérez",
+    "email": "juanperez@example.com",
+    "password": "hashed_password",
+    "location": "Bogotá",
+    "registration_date": { "$date": "2025-04-11T10:00:00Z" }
+  },
+  {
+    "username": "laura456",
+    "name": "Laura Gómez",
+    "email": "laurag@example.com",
+    "password": "hashed_password",
+    "location": "Medellín",
+    "registration_date": { "$date": "2023-01-18T10:00:00Z" }
+  },
+  {
+    "username": "roberto_x",
+    "name": "Roberto Mendez",
+    "email": "robertomendez@example.com",
+    "password": "hashed_password",
+    "location": "Cali",
+    "registration_date": { "$date": "2025-02-12T10:00:00Z" }
+  },
+  {
+    "username": "miguelv",
+    "name": "Miguel Ramos",
+    "email": "miguelramos@example.com",
+    "password": "hashed_password",
+    "location": "Popayan",
+    "registration_date": { "$date": "2024-12-01T10:00:00Z" }
+  },
+  {
+    "username": "laura19",
+    "name": "Laura Olivero",
+    "email": "lauraolivero@example.com",
+    "password": "hashed_password",
+    "location": "Tunja",
+    "registration_date": { "$date": "2022-12-01T10:00:00Z" }
+  }
+]

@@ -1,0 +1,36 @@
+[{
+  "title": "Cien años de soledad",
+  "author": "Gabriel García Márquez",
+  "genre": "Realismo mágico",
+  "language": "Español",
+  "tags": ["realismo magico", "litertura"]
+},
+{
+  "title": "1984",
+  "author": "George Orwell",
+  "genre": "Distopía",
+  "language": "Inglés",
+  "tags": ["Censura", "Propaganda", "Crítica social"]
+},
+{
+  "title": "El alquimista",
+  "author": "Paulo Coelho",
+  "genre": "Ficción",
+  "quality": "Nuevo",
+  "tags": ["superación", "ficción", "filosofía"]
+},
+{
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "genre": "Historia",
+  "quality": "Usado - aceptable",
+  "tags": ["historia", "no ficción", "humanidad"]
+},
+{
+    "title": "El nombre del viento",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasía",
+    "quality": "Usado - muy buen estado",
+    "tags": ["fantasía", "aventura", "trilogía"]
+}
+]

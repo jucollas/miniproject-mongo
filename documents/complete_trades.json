@@ -1,0 +1,15 @@
+[{
+  "proposed_by": "juan123",
+  "with_user": "laura456",
+  "date": { "$date": "2025-05-13T16:45:00Z" },
+  "proposed_book": {
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "Realismo mágico"
+  },
+  "exchanged_for": {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Distopía"
+  }
+}]

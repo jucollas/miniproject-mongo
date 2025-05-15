@@ -1,0 +1,70 @@
+[{
+  "proposed_by": "juan123",
+  "created_at": ISODate("2025-05-10T10:00:00Z"),
+  "status": "open",
+  "book": {
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "genre": "Realismo mágico",
+    "quality": "Excelente",
+    "tags": ["clásico", "realismo", "literatura"]
+  }
+},
+{
+  "proposed_by": "laura456",
+  "created_at": ISODate("2025-05-11T14:30:00Z"),
+  "status": "open",
+  "book": {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Distopía",
+    "quality": "Bueno",
+    "tags": ["futurismo", "política"]
+  }
+}, 
+{
+  "proposed_by": "roberto_x",
+  "created_at": ISODate("2025-05-05T09:00:00Z"),
+  "status": "open",
+  "book": {
+    "title": "El alquimista",
+    "author": "Paulo Coelho",
+    "genre": "Ficción",
+    "quality": "Nuevo",
+    "tags": ["superación", "ficción", "filosofía"]
+  }
+}, 
+{
+  "proposed_by": "miguelv",
+  "created_at": ISODate("2025-05-04T14:00:00Z"),
+  "status": "negotiated",
+  "book": {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "Historia",
+    "quality": "Usado - aceptable",
+    "tags": ["historia", "no ficción", "humanidad"]
+  },
+  "negotiation": {
+    "with_user": "juana12",
+    "exchanged_for": {
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "genre": "Futuro"
+    },
+    "date": ISODate("2025-05-07T16:45:00Z")
+  }
+},
+{
+  "proposed_by": "laura19",
+  "created_at": ISODate("2025-05-03T08:15:00Z"),
+  "status": "open",
+  "book": {
+    "title": "El nombre del viento",
+    "author": "Patrick Rothfuss",
+    "genre": "Fantasía",
+    "quality": "Usado - muy buen estado",
+    "tags": ["fantasía", "aventura", "trilogía"]
+  }
+}
+]
